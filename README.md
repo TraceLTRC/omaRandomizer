@@ -19,3 +19,4 @@ If you don't have python installed, you can just grab the executable file from t
 
 ## Usage
 Run the program, then pick the minimum and maximum MMR. After that, pick a mapset you would like to play (NM1, HR3, and so on). You can also type INFO to check the remaining beatmaps the program has not picked.
+Everytime the program picks a map, the map is automatically opened using osu!direct.
