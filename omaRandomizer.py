@@ -72,7 +72,7 @@ while True:
         print_beatmap(beatmap)
         time.sleep(10)
     except KeyError:
-        print("Mapset not recognized. These are the only these mapsets:")
+        print("Mapset not recognized. These are the only mapsets available:")
         for key in maps.keys():
             print(key + " " + str(len(maps[key])))
             print("")
